@@ -1,37 +1,28 @@
 ---
-title: הכל שפיר - אירועים מיוחדים
-subtitle: מומחים בהפקת אירועים וימי כיף
-image: /img/home-jumbotron.jpg
+title: '                    הכל שפיר אירועים'
+subtitle: 'מומחים בהפקת אירועים, ימי גיבוש, ימי כיף, ערבי צוות '
+image: /img/perry-grone-732606-unsplash.jpg
 blurb:
-  heading: למה צוות הכל שפיר?
-  text: אנחנו כצוות הכל שפיר מתמחים בהפקת אירועים וימי גיבוש מעל ל-30 שנה.
+  heading: שפיר אירועים הינה חברה ותיקה שמתמחה בפעילויות חדשניות  מותאמות ללקוח.
+  text: '  אנו מתמחים בהפעלת קהל, גיבושים חברתים, ערבי חברה, ערבי נשים,משחקי חברה. אנשי הצוות שלנו הם בעלי ניסיון רב בכל התחומים.'
 intro:
-  heading: השירותים שלנו
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: סדנאות למבוגרים וילדים
+  text: ' ברשותנו מגוון סדנאות יצירה לילדים, למבוגרים ולחברות / משחקי חברה/ גיבוש באולם ובשטח/ מעגל מתופפים / הנחיה /סלטרון שירה /ציירי קריקטורה/ מיסטיקה/ מסיבות חברה / ערבי נשים/  '
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/hakolshafirlogo.png
+    text: >2-
+       ניתן להתקשר לחיים שפיר:
+      050-2514453  /למשרד 08-6744277/ פקס  08-6731237.   אנו נבנה ונפיק עבורכם
+      את האירוע 
+  - image: /img/גיבוש-חברתי-odt.jpg
+    text: 'אנו נשמח לגרום לעובדים ולצוות להתגבש בצורה מהנה וחוויתית '
+  - image: /img/כמה-צחוק.jpg
+    text: |2
+       גיבוש ע"י ערבי צחוק
+  - image: /img/סדנאות-למבוגרים.jpg
+    text: 'פעילויות חוויתיות בין הורים וילדים. סדנאות יצירה '
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: אין לקוח לא מרוצה!!
+  text: '  חברת שפיר הניה חברה ותיקה מעל 30 שנה של פעילות עם אנשי מקצוע מהמובילים בתחום. אנו עובדים עם חברות מובילות, גופים ממשלתיים, ועדי עובדים  ועוד... המוטו שלנו לתפור אירוע שמתאים לחברה. '
 ---
 
