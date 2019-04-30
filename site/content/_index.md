@@ -1,6 +1,6 @@
 ---
 title: הכל שפיר - אירועים מיוחדים
-subtitle: מומחים בהפקת אירועים
+subtitle: מומחים בהפקת אירועים וימי כיף
 image: /img/home-jumbotron.jpg
 blurb:
   heading: למה צוות הכל שפיר?
