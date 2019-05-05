@@ -16,19 +16,17 @@ intro:
          
     - image: /img/מחנה-יהודה-עותק.jpg
       text: >-
-        משחק גיבוש - המרוץ למליון. שוק לווינסקי / מחנה יהודה/ מרוץ עם מסימות ידע
+        משחק גיבוש - המרוץ למליון. שוק לווינסקי / מחנה יהודה/ מרוץ עם משימות ידע
         , טעימות בדרך ומשחקים 
     - image: /img/גיבוש.jpg
       text: >-
         גיבוש אתגרי בשטח - פעילות חברתית  שמטרתה ליצור סינרגיה  וגיבוש המשתתפים.
         את הפעילות עושים  בפארק 
              או ביער. המטרה להפעיל את כל הצוות בצורה תחרותית ומהנה
-  heading: What we offer
+  heading: ' למה צוות שפיר?'
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    כי אנחנו עם נסיון וותק , עם צוות מקצועי וחדשני. אנו מתאימים ללקוח את האירוע
+    המתאים לו ביותר . אצלנו כולם יוצאים מרוצים עם חיוך
 main:
   heading: למה צוות הכל שפיר?
   description: |2
@@ -37,11 +35,11 @@ main:
     alt: '  סדנאות והפעלה  לילדים '
     image: /img/סדנאות-ילדים.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: משחקי חברה היתוליים
+    image: /img/משחקי-חברה.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: מעגל מתופפים מתאים לקבלת פנים ולסדנת לימוד
+    image: /img/אילן-ימית-2000.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
