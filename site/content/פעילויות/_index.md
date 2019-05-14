@@ -2,7 +2,7 @@
 title: >-
   פעילותנו מתמקדת במשחקי חברה / סדנאות  לילדים ומבוגרים/ גיבוש חברתי בשטח או 
   באולם/גיבוש בתנועה
-image: /img/מחנה-יהודה-עותק.jpg
+image: /img/מרוץ-זרוע-היבשה-2-.jpg
 heading: >-
   אנו מציעים פעילות מגבשת באולם או בחוץ . אפשרות גיבוש בתנוע תוך שילוב משימות
   שטח
@@ -25,32 +25,23 @@ intro:
         גיבוש אתגרי בשטח - פעילות חברתית  שמטרתה ליצור סינרגיה  וגיבוש המשתתפים.
         את הפעילות עושים  בפארק 
              או ביער. המטרה להפעיל את כל הצוות בצורה תחרותית ומהנה
-  heading: ' למה צוות שפיר?'
-  description: >
-    כי אנחנו עם נסיון וותק , עם צוות מקצועי וחדשני. אנו מתאימים ללקוח את האירוע
-    המתאים לו ביותר . אצלנו כולם יוצאים מרוצים עם חיוך
-main:
-  heading: למה צוות הכל שפיר?
+  heading: ' '
   description: |2
-     צוות הכל שפיר הינו בעל וותק שמעל 30 שנה עם אנשי צוות מקצועיים בכל התחומים, עם ידע וחדשנות.
+       
+main:
+  heading: סדנאות יצירה לילדים
+  description: |2
+      פעילות משותפת חוויתין בין הורים וילדים כאשר כל משתתף יוצא עם היצירה 
   image1:
-    alt: '  סדנאות והפעלה  לילדים '
+    alt: '   '
     image: /img/סדנאות-ילדים.jpg
   image2:
-    alt: משחקי חברה היתוליים
-    image: /img/משחקי-חברה.jpg
+    alt: ' '
+    image: /img/img-20180601-wa0006-1-.jpg
   image3:
     alt: מעגל מתופפים מתאים לקבלת פנים ולסדנת לימוד
     image: /img/אילן-ימית-2000.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+testimonials: []
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
