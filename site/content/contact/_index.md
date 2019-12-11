@@ -3,15 +3,13 @@ title: 'יצירת קשר: חיים שפיר 050-2514453 / משרד 08-6744277  
 logo: /img/hakolshafirlogo.png
 contact_entries:
   - heading: '           משרדנו-רחוב פארן2 יבנה'
-    text: |
+    text: |+
       משרדנו נמצאים ביבנה. 
       אנו נותנים שירות ומגיעים לכל מקום בארץ.   
-      פקס 08-6731237
+
   - heading: טלפונים
-    text: |
-      050-2514453
-
-
+    text: |-
+      חיים 050-2514453 
        משרד08-6744277
   - heading: 'כתובת אימייל '
     text: hakolshafir1@gmail.com
